@@ -1,2 +1,2 @@
 # calc
- python 연습용
+ practice python
